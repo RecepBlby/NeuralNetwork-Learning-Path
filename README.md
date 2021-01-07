@@ -1,5 +1,3 @@
-# NeuralNetwork-Learning-Path
-
 # Neural networks
 form the base of deep learning, which is a subfield of machine learning, where the structure of the human brain inspires the algorithms. Neural networks take input data, train themselves to recognize patterns found in the data, and then predict the output for a new set of similar data. Therefore, a neural network can be thought of as the functional unit of deep learning, which mimics the behavior of the human brain to solve complex data-driven problems.The first thing that comes to our mind when we think of “neural networks” is biology, and indeed, neural nets are inspired by our brains.
 
